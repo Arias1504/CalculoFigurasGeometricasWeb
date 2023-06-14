@@ -1,0 +1,6 @@
+C:\Users\jefer\Desktop\ProgSw\Practica3\libFiguraGeometrica3D\libFiguraGeometrica3D\bin\Debug\libFiguraGeometrica3D.dll
+C:\Users\jefer\Desktop\ProgSw\Practica3\libFiguraGeometrica3D\libFiguraGeometrica3D\bin\Debug\libFiguraGeometrica3D.pdb
+C:\Users\jefer\Desktop\ProgSw\Practica3\libFiguraGeometrica3D\libFiguraGeometrica3D\obj\Debug\libFiguraGeometrica3D.csproj.AssemblyReference.cache
+C:\Users\jefer\Desktop\ProgSw\Practica3\libFiguraGeometrica3D\libFiguraGeometrica3D\obj\Debug\libFiguraGeometrica3D.csproj.CoreCompileInputs.cache
+C:\Users\jefer\Desktop\ProgSw\Practica3\libFiguraGeometrica3D\libFiguraGeometrica3D\obj\Debug\libFiguraGeometrica3D.dll
+C:\Users\jefer\Desktop\ProgSw\Practica3\libFiguraGeometrica3D\libFiguraGeometrica3D\obj\Debug\libFiguraGeometrica3D.pdb

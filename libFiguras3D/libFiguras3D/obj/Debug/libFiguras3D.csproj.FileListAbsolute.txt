@@ -1,0 +1,8 @@
+C:\Users\jefer\Desktop\ProgSw\00. PRACTICAS\Practica3\libFiguras3D\libFiguras3D\bin\Debug\libFiguras3D.dll
+C:\Users\jefer\Desktop\ProgSw\00. PRACTICAS\Practica3\libFiguras3D\libFiguras3D\bin\Debug\libFiguras3D.pdb
+C:\Users\jefer\Desktop\ProgSw\00. PRACTICAS\Practica3\libFiguras3D\libFiguras3D\bin\Debug\libFiguraGeometrica3D.dll
+C:\Users\jefer\Desktop\ProgSw\00. PRACTICAS\Practica3\libFiguras3D\libFiguras3D\bin\Debug\libFiguraGeometrica3D.pdb
+C:\Users\jefer\Desktop\ProgSw\00. PRACTICAS\Practica3\libFiguras3D\libFiguras3D\obj\Debug\libFiguras3D.csproj.CoreCompileInputs.cache
+C:\Users\jefer\Desktop\ProgSw\00. PRACTICAS\Practica3\libFiguras3D\libFiguras3D\obj\Debug\libFiguras3D.csproj.CopyComplete
+C:\Users\jefer\Desktop\ProgSw\00. PRACTICAS\Practica3\libFiguras3D\libFiguras3D\obj\Debug\libFiguras3D.dll
+C:\Users\jefer\Desktop\ProgSw\00. PRACTICAS\Practica3\libFiguras3D\libFiguras3D\obj\Debug\libFiguras3D.pdb
